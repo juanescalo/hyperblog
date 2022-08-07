@@ -1,1 +1,5 @@
-Hola, mi nombre es Juan Camilo Escandón y estoy aprendiendo sobre Git y Github.
+Hola, mi nombre es Juan Camilo Escandón
+y estoy aprendiendo sobre Git y Github.
+
+Nací en Colombia y me apasionan los números
+y la tecnología!!
